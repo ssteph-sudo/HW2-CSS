@@ -1,0 +1,49 @@
+@charset "utf-8";
+
+body{
+    background-image: url(IMG_1049.jpeg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+ 
+}
+h2 { 
+	color:white;
+    text-shadow: 2px 2px rgb(252, 65, 3);
+}
+
+ #content { 
+	margin: auto;
+	width: 50%;
+	border:thick solid #D3D7BB;
+	text-align: center; 
+	 
+}
+
+
+ul {
+	border:none;
+	text-align: center;
+	padding: 0;
+	margin: 0;}
+
+li {
+	color: #fff;
+	
+	list-style-type: none;
+
+}
+
+#display1{
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+	padding: 10px;
+	font-size: 32px;
+	background-color: antiquewhite;
+	text-shadow: 2px 2px 1px #e6faf9;
+}
+#display2{
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	padding: 10px;
+	font-size: 64px;
+	background-color: cornflowerblue;
+	text-shadow: 2px 2px rgb(0, 26, 105);
+}
